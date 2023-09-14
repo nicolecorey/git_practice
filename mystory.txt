@@ -10,3 +10,6 @@ I was born in Bikini Bottom -- P2
 "F is for friends who do stuff together!"
 I was born in Rock Bottom --P3
 
+"U is for you and me!"
+--P2
+
